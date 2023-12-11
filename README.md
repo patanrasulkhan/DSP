@@ -1,2 +1,0 @@
-# DSP
-DSP group project.
